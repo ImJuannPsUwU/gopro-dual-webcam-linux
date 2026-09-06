@@ -1,0 +1,8 @@
+# Editor / OS noise
+*~
+*.swp
+.DS_Store
+
+# Logs / temporary output
+*.log
+tmp/
