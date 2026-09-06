@@ -364,6 +364,12 @@ Known-good combination used to create this project:
 
 The firmware version is documented as a reference, not a requirement.
 
+## Creator
+
+Created and maintained by [@ImJuannPsUwU](https://github.com/ImJuannPsUwU) on GitHub.
+
+If this project helped you or you liked it, you can also follow me on Twitch: [@ImJuanPsUwU](https://www.twitch.tv/imjuanps) 💜
+
 ## Attribution and license
 
 This project is licensed under the **Apache License 2.0**.
