@@ -202,6 +202,12 @@ El proyecto original está acreditado porque fue una referencia/fundamento impor
 
 Si solo necesitas **una** webcam virtual sin la salida dual, el proyecto original es una opción más simple.
 
+## Autor
+
+Creado y mantenido por [@ImJuannPsUwU](https://github.com/ImJuannPsUwU) en GitHub.
+
+Si este proyecto te funcionó o te gustó, también puedes seguirme en Twitch: [@ImJuanPsUwU](https://www.twitch.tv/imjuanps) 💜
+
 ## Licencia y créditos
 
 Apache License 2.0.
